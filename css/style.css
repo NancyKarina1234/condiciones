@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+
+.container{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 400px;
+width: 400px;
+
+}
+
+
+.Sticker{
+    display: flex;
+    justify-content: space-around;
+}
+.img-container {
+    height: 300px;
+    width: 300px;
+    border: solid 1px #445;
+    border-radius: 5px;
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+}
